@@ -1,0 +1,26 @@
+{
+  "name": "hierarchy-sort",
+  "version": "1.0.0",
+  "description": "A library to sort the hierarchical data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddheshthipse/hierarchy-sort.git"
+  },
+  "keywords": [
+    "sort",
+    "sort-semver",
+    "hierarchical-sort",
+    "semver-sort",
+    "hierarchy-sort"
+  ],
+  "author": "Siddhesh Thipse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddheshthipse/hierarchy-sort/issues"
+  },
+  "homepage": "https://github.com/siddheshthipse/hierarchy-sort#readme"
+}
