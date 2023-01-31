@@ -5,3 +5,7 @@ Hierarchical sorting made easy
 # Installation
 
 `npm install hierarchy-sort --save`
+
+```
+hierarchySort(myArray, "processID")
+```
